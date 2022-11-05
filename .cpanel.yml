@@ -4,7 +4,4 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp -r images $DEPLOYPATH
-    - /bin/cp ei_1652262873917-removebg-preview-1.png $DEPLOYPATH
-    - /bin/cp CV_Andika.pdf $DEPLOYPATH
     - /bin/cp script.js $DEPLOYPATH
-    - /bin/cp -r JS $DEPLOYPATH
